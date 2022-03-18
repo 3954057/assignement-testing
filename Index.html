@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+  <img src="ProfilePic" alt="https://github.com/3954057/assignement-testing/blob/main/ProfilePic.png?raw=true" width="104" height="142">
 	<h1> Personal Information </h1>
 	<p>My name is Dominic and I'm a 21 year old male living in Canberra. </p>
 	<p> I'm currently working overnight at macas and I'm looking for something better. My only real interests are gaming and watching some shows/anime. Im generally one to keep to myself and not talk much, i try to reach out for help if i feel i have no options left but i'm stubborn enough that when i do reach out for help it's generally too late </p>
@@ -10,6 +10,7 @@
 	<h3> My Ideal Job </h3>
 	<p> I haven’t got much in the way of my ideal job per say, if it pays me well and it doesnt drain me so much as to make me want to die every day then i’d like to say i'd fit into the job fairly well </p>
 	<h4> Personality Profile </h4>
+  <img src="16PersonalitiesTest" alt="https://github.com/3954057/assignement-testing/blob/main/16PersonalitiesTest.png?raw=tru"" width="104" height="142">
   <p> new paragraph here </p>
 </body>
 </html>
