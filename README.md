@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <img src="ProfilePic.png" alt="https://github.com/3954057/assignement-testing/blob/main/ProfilePic.png?raw=true" width="104" height="142">
-  <p>student id </p>
-  <P>student email </p>
+  <div class="importantinfo">
+    <div id="Profileimage">
+      <img src="ProfilePic.png" alt="https://github.com/3954057/assignement-testing/blob/main/ProfilePic.png?raw=true" width="104" height="142">
+    </div>
+    <div id="id">
+      <p>student id </p>
+    </div>
+    <div id="email">
+      <P>student email </p>
+    </div>
+  </div>
 	<h1> Personal Information </h1>
 	<p>My name is Dominic and I'm a 21 year old male living in Canberra. </p>
 	<p> I'm currently working overnight at macas and I'm looking for something better. My only real interests are gaming and watching some shows/anime. Im generally one to keep to myself and not talk much, i try to reach out for help if i feel i have no options left but i'm stubborn enough that when i do reach out for help it's generally too late </p>
